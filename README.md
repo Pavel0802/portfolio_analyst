@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.tenor.com/DIuaMBpri1QAAAAi/working-smiles.gif)" width="100"/>
+</div>
 Портфолио: аналитик данных
 Обо мне
 Привет! Меня зовут Павел, я начинающий аналитик данных. В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
