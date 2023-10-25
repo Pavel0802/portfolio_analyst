@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/DIuaMBpri1QAAAAi/working-smiles.gif" width="100"/>
 </div>
-<div id="header" align="center">
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=https://github.com/Pavel0802&style=flat-square&color=blue" alt=""/>
 </div>
 Портфолио: аналитик данных
