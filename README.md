@@ -2,6 +2,7 @@
   <img src="https://media.tenor.com/DIuaMBpri1QAAAAi/working-smiles.gif" width="100"/>
 </div>
 <img src="https://komarev.com/ghpvc/?username=https://github.com/Pavel0802&style=flat-square&color=blue" alt=""/>
+<div> id="badges"
 Портфолио: аналитик данных
 Обо мне
 Привет! Меня зовут Павел, я начинающий аналитик данных. В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
