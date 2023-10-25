@@ -32,6 +32,8 @@
 Системы управления базами данных: MySQL, PostgreSQL
 Средства визуализации данных: PowerBi, Matplotlib, seaborn
 Инструменты для машинного обучения: scikit-learn, TensorFlow
+
+
 Проекты
 Проект 1: Калькулятор юнит-экономики онлайн-школы
 
@@ -106,7 +108,15 @@
 
 Итог №1
 Итог №2
+
 Контактная информация
-Email: name@email.com
-LinkedIn: https://www.linkedin.com/in/username/
-Личный сайт: https://www.username.com
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    <a href="lonshakow0802@gmail.com">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+Email: lonshakow0802@gmail.com
+
