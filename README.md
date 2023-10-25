@@ -32,8 +32,7 @@
 
 Навыки и технологии
 
-Инструменты анализа данных: 
-<img src="https://giphy.com/gifs/vISmwpBJUNYzukTnVx"width="100"/> SQL, Excel:
+Инструменты анализа данных: :SQL , Excel:
 
 Языки программирования и библиотеки: Python, Pandas, math
 
