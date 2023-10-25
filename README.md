@@ -115,7 +115,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     <a href="lonshakow0802@gmail.com">
-    <img src="https://img.shields.io/badge/gmail%20%20-8A2BE2" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/gmail%40%40-8A2BE2" alt="Gmail Badge"/>
   </a>
 </div>
 Email: lonshakow0802@gmail.com
