@@ -1,8 +1,9 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/DIuaMBpri1QAAAAi/working-smiles.gif" width="100"/>
 </div>
+<div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=https://github.com/Pavel0802&style=flat-square&color=blue" alt=""/>
-
+</div>
 Портфолио: аналитик данных
 Обо мне
 Привет! Меня зовут Павел, я начинающий аналитик данных. В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
