@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/DIuaMBpri1QAAAAi/working-smiles.gif" width="100"/>
 </div>
 <div id="badges" align="center">
-<img src="https://komarev.com/ghpvc/?username=github.com/Pavel0802&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Pavel0802&style=flat-square&color=blue" alt=""/>
 </div>
 https://github.com/Pavel0802
 Портфолио: аналитик данных
