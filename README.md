@@ -14,9 +14,9 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-https://github.com/Pavel0802
+---
 Портфолио: аналитик данных
-### :man_technologist: Обо мне:
+--- :man_technologist: Обо мне:
 Привет! Меня зовут Павел, я начинающий аналитик данных. 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
