@@ -16,11 +16,11 @@
 
 ---
 
-Портфолио: аналитик данных
+### :hammer_and_wrench: Портфолио: аналитик данных
 
 ---
 
-:man_technologist: Обо мне:
+###:man_technologist: Обо мне:
 - :telescope: Привет! Меня зовут Павел, я начинающий аналитик данных. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :seedling: В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 
