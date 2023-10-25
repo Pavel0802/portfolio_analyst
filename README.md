@@ -16,7 +16,7 @@
 
 ---
 
-### :Портфолио: аналитик данных
+### Портфолио: аналитик данных
 
 ---
 
@@ -121,4 +121,9 @@
   </a>
 </div>
 Email: lonshakow0802@gmail.com
+
+---
+
+### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavel0802&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
