@@ -57,9 +57,17 @@
 <img src="https://github.com/Pavel0802/portfolio_analyst/blob/main/project/unit/количество%20студентов%20по%20каналам.PNG" width="300" height="200"/>
 </div>
 Задача №2.
-Визуализация динамики привлечения новых студентов по каналам
+<div align="center">
+<img src="https://github.com/Pavel0802/portfolio_analyst/blob/main/project/unit/калькулятор.PNG" width="300" height="200"/>
+<img src="https://github.com/Pavel0802/portfolio_analyst/blob/main/project/unit/калькулятор%20факт-прогноз.PNG" width="300" height="200"/>
+</div>
 Задача №3.
-Создание калькулятора юнит-экономики онлайн-школы
+<div align="center">
+<img src="https://github.com/Pavel0802/portfolio_analyst/blob/main/project/unit/выручка%20калькулятор.PNG" width="300" height="200"/>
+<img src="https://github.com/Pavel0802/portfolio_analyst/blob/main/project/unit/план%20найма.PNG" width="300" height="200"/>
+</div>
+
+
 
 Как решала(-а): краткое описание решения (автореферат)
 
