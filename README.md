@@ -7,7 +7,7 @@
 <div align="center">
 <h1>
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="(https://drive.google.com/file/d/1xcMfwR8GqVnKElh7R1cyb5gE0Me6X-57/view?usp=sharing)https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>  
 <div align="center">
@@ -52,6 +52,9 @@
 
 Задача №1
 Визуализация расходов маркетинга и их эффективность в динамике
+<div align="center">
+<img src="https://drive.google.com/file/d/1xcMfwR8GqVnKElh7R1cyb5gE0Me6X-57/view?usp=sharing height="300"/>
+</div>
 Задача №2.
 Визуализация динамики привлечения новых студентов по каналам
 Задача №3.
