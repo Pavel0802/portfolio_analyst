@@ -30,7 +30,7 @@
 
 ---
 
-Навыки и технологии
+### :hammer_and_wrench: Навыки и технологии
 
 Инструменты анализа данных: :SQL , Excel:
 
@@ -56,6 +56,7 @@
 <img src="https://github.com/Pavel0802/portfolio_analyst/blob/main/project/unit/расходы%20на%20маркетинг.PNG" width="300" height="200"/>
 <img src="https://github.com/Pavel0802/portfolio_analyst/blob/main/project/unit/количество%20студентов%20по%20каналам.PNG" width="300" height="200"/>
 </div>
+
 Задача №2.
 <div align="center">
 <img src="https://github.com/Pavel0802/portfolio_analyst/blob/main/project/unit/калькулятор.PNG" width="300" height="200"/>
