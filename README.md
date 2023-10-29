@@ -53,7 +53,7 @@
 Задача №1
 Визуализация расходов маркетинга и их эффективность в динамике
 <div align="center">
-<img src="https://drive.google.com/file/d/1yEZVx1W4hKlL3OQitjCpnemMu-C14IFJ/view?usp=drive_link" />
+<img src="https://drive.google.com/file/d/1yEZVx1W4hKlL3OQitjCpnemMu-C14IFJ/view?usp=drive_link" width="600" height="300"/>
 </div>
 Задача №2.
 Визуализация динамики привлечения новых студентов по каналам
