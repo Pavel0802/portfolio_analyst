@@ -53,8 +53,8 @@
 Задача №1
 Визуализация расходов маркетинга и их эффективность в динамике
 <div align="center">
-<img src="https://github.com/Pavel0802/portfolio_analyst/blob/main/project/unit/расходы%20на%20маркетинг.PNG" />
-<img src="https://github.com/Pavel0802/portfolio_analyst/blob/main/project/unit/количество%20студентов%20по%20каналам.PNG" />
+<img src="https://github.com/Pavel0802/portfolio_analyst/blob/main/project/unit/расходы%20на%20маркетинг.PNG" width="300" height="200"/>
+<img src="https://github.com/Pavel0802/portfolio_analyst/blob/main/project/unit/количество%20студентов%20по%20каналам.PNG" width="300" height="200"/>
 </div>
 Задача №2.
 Визуализация динамики привлечения новых студентов по каналам
