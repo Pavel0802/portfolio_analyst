@@ -52,6 +52,8 @@
 
 Задача №1
 Визуализация расходов маркетинга и их эффективность в динамике
+
+
 <div align="center">
 <img src="https://github.com/Pavel0802/portfolio_analyst/blob/main/project/unit/расходы%20на%20маркетинг.PNG" width="300" height="200"/>
 <img src="https://github.com/Pavel0802/portfolio_analyst/blob/main/project/unit/количество%20студентов%20по%20каналам.PNG" width="300" height="200"/>
@@ -59,8 +61,8 @@
 
 Задача №2.
 <div align="center">
-<img src="https://github.com/Pavel0802/portfolio_analyst/blob/main/project/unit/калькулятор.PNG" width="300" height="200"/>
-<img src="https://github.com/Pavel0802/portfolio_analyst/blob/main/project/unit/калькулятор%20факт-прогноз.PNG" width="300" height="200"/>
+<img src="https://github.com/Pavel0802/portfolio_analyst/blob/main/project/unit/калькулятор.PNG" width="400" height="200"/>
+<img src="https://github.com/Pavel0802/portfolio_analyst/blob/main/project/unit/калькулятор%20факт-прогноз.PNG" width="300" height="100"/>
 </div>
 Задача №3.
 <div align="center">
